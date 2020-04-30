@@ -45,7 +45,8 @@ class _HomeState extends State<Home> {
 
 
                 ),
-                SizedBox(height: 21.0,),
+
+                SizedBox(height: 21.0),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
